@@ -1,0 +1,10 @@
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.exe.config
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.exe
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.pdb
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.dll
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.xml
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csprojResolveAssemblyReference.cache
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.exe
+C:\Users\Wesley\Source\Repos\entity-framework-migrations\ef-migrations-1.2\dotnet-ef-migrations-1.2\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.pdb
